@@ -1,5 +1,5 @@
 {
-  "name": "Daraz",
+  "name": "daraz",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/google-spreadsheet": "^3.0.0",
     "@types/puppeteer": "^3.0.1",
     "@types/xlsx": "0.0.36",
     "puppeteer": "^5.2.1",
