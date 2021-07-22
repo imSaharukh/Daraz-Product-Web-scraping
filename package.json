@@ -15,6 +15,6 @@
     "@types/xlsx": "0.0.36",
     "puppeteer": "^5.2.1",
     "typescript": "^3.9.7",
-    "xlsx": "^0.16.5"
+    "xlsx": "^0.17.0"
   }
 }
